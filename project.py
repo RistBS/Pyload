@@ -16,5 +16,10 @@ print('\033[31m' """____
 /_/    \__, /____/\___/\__,_/_/ /_/ 
       /____/                        """)
      
-print('\033[33m' 'Made by RistBS')
-                              
+print('\033[33m' '[1] Made by RistBS ©')
+print('\033[37m' '[2] v1.0 usr ')
+
+print('\033[31m' '______________________________________')
+
+print('\033[32m' 'usage : Pyscan.py ')
+print('\033[37m' 'exemple : Pyscan.py --port 0000')
