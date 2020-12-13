@@ -20,10 +20,10 @@ print('\033[31m' '______________________________________')
 print('\033[32m' 'usage : Pyscan.py ')
 print('\033[37m' 'exemple : Pyscan.py --port 0000')
 
-def main();
+def main():
     n = input("1- Scan Port\n2-")
     
-def nmap();
+def nmap():
 
 
 if __nmap__ == "__main__":
